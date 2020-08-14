@@ -2,8 +2,7 @@ package ThreadSync;
 
 import java.util.Scanner;
 
-public class
-App {
+public class App {
 
     public static void main(String[] args) {
         Processor proc1 = new Processor();
